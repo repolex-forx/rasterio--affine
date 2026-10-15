@@ -1,0 +1,11 @@
+{
+  "org": "rasterio",
+  "repo": "affine",
+  "versions": [
+    {
+      "commit": "63d1898b811956d4b38147b53ca6ef3a2314b3fd",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:34:41.481367+00:00"
+    }
+  ]
+}
