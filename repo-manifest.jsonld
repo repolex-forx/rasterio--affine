@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rasterio/affine/commit/63d1898b811956d4b38147b53ca6ef3a2314b3fd",
       "git:hexsha": "63d1898b811956d4b38147b53ca6ef3a2314b3fd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rasterio/affine/commit/6f9b83bb5ef0813f3ef414dd05f2303a200df3a4",
